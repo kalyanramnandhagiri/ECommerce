@@ -1,8 +1,0 @@
-{
-  "build": {
-    "builder": "NIXPACKS"
-  },
-  "deploy": {
-    "startCommand": "java -jar target/ECommerceApplication-0.0.1-SNAPSHOT.jar"
-  }
-}
